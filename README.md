@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan Tchuente</h1>
-<h3 align="center">A passionate backend developper from Cameroon</h3>
+<h3 align="center">A passionate DevOps Engineer from Cameroon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geek3000&label=Profile%20views&color=0e75b6&style=flat" alt="geek3000" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/new1genius" target="blank"><img src="https://img.shields.io/twitter/follow/new1genius?logo=twitter&style=for-the-badge" alt="new1genius" /></a> </p>
 
-- 🔭 I’m currently working on **Destinaction**
+- 🔭 I’m currently working on **JOUZ SEARCH**
 
 - 🌱 I’m currently learning **Data sicence,information system and IOT**
 
-- 👨‍💻 All of my projects are available at [https://newgenius.tech](https://newgenius.tech)
+- 👨‍💻 All of my projects are available at [https://www.jouz.tech](https://www.jouz.tech)
 
-- 📝 I regularly write articles on [https://newgenius.tech](https://newgenius.tech)
+- 📝 I regularly write articles on [https://www.jouz.tech](https://www.jouz.tech)
 
 - 📫 How to reach me **jonathantchuente@gmail.com**
 
